@@ -20,8 +20,8 @@ Olá! Sou a Cristina, moradora da cidade de Piracicaba - São Paulo. Sou formada
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"
   />
-    
-<img 
+
+ <img 
     align="left" 
     alt="Python" 
     title="Python"
@@ -113,6 +113,15 @@ Olá! Sou a Cristina, moradora da cidade de Piracicaba - São Paulo. Sou formada
 
 <img 
     align="left" 
+    alt="Spring" 
+    title="Spring" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -131,7 +140,7 @@ Olá! Sou a Cristina, moradora da cidade de Piracicaba - São Paulo. Sou formada
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=crissmcoelho_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=crissmcoelho&icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
@@ -141,5 +150,14 @@ Olá! Sou a Cristina, moradora da cidade de Piracicaba - São Paulo. Sou formada
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=crissmcoelho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=crissmcoelho&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+<br/>
+<br/>
+
+
+
+
 
