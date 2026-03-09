@@ -1,12 +1,12 @@
 ## # 👩🏻‍💻 Cristina Martins Coelho
 
-Olá! Sou a Cristina, moradora da cidade de Piracicaba - São Paulo. Sou formada em matemática desde 2016. Neste momento estou cursando engenharia da computação na UNIVESP com previsão de formação para 06/2026.
+Olá! Sou a Cristina, moradora da cidade de Piracicaba - São Paulo. Sou formada em matemática desde 2016. Neste momento estou cursando engenharia da computação na UNIVESP com previsão de formação para 12/2026.
 
 
 <p align="left"
 </a
 
-<a href="https://www.linkedin.com/in/cristina-martins-coelho-114869203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/cristina-martins-coelho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </p>
 
